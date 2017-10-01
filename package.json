@@ -1,0 +1,32 @@
+{
+  "name": "genoset-266",
+  "version": "1.0.0",
+  "description": "This genoset is to be used with DNA-JSON. See the [dna2json](https://github.com/genomejs/dna2json) repository for more information.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gql": "^1.1.2",
+    "should": "^13.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theslip/genoset-266.git"
+  },
+  "keywords": [
+    "genoset"
+  ],
+  "author": "David Rutsch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theslip/genoset-266/issues"
+  },
+  "homepage": "https://github.com/theslip/genoset-266#readme"
+}
