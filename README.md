@@ -9,5 +9,5 @@ Example:
 ```javascript
 var gs266 = require('genoset-266')
 var dna = require('./dna.json')
-var xxy = gs266(dna)
+var xyy = gs266(dna)
 ```
