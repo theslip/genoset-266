@@ -7,7 +7,7 @@ This genoset is to be used with DNA-JSON. See the [dna2json](https://github.com/
 Example:
 
 ```javascript
-var gs266 = require('genoset-gs266')
+var gs266 = require('genoset-266')
 var dna = require('./dna.json')
 var xxy = gs266(dna)
 ```
