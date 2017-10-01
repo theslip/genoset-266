@@ -1,6 +1,6 @@
 {
   "name": "genoset-266",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This genoset is to be used with DNA-JSON. See the [dna2json](https://github.com/genomejs/dna2json) repository for more information.",
   "main": "index.js",
   "directories": {
